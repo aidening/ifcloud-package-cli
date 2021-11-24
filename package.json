@@ -1,0 +1,37 @@
+{
+  "name": "ifcloud-cli",
+  "version": "1.0.0",
+  "description": "This is a cli, used to generate ifcloud packages",
+  "main": "index.js",
+  "bin": {
+    "ifcloud": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "author": {
+    "name": "aidenxiong",
+    "email": "aiden_xiong@163.com"
+  },
+  "keywords": [
+    "ifcloud-cli",
+    "ifcloud",
+    "脚手架"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "chalk": "^4.1.2",
+    "commander": "^8.3.0",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.5.2",
+    "fs-extra": "^10.0.0",
+    "inquirer": "^8.2.0",
+    "ora": "^5.4.1"
+  },
+  "devDependencies": {}
+}
