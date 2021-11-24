@@ -1,6 +1,6 @@
 {
   "name": "ifcloud-cli",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "This is a cli, used to generate ifcloud packages",
   "main": "index.js",
   "bin": {
