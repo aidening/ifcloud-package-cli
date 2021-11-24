@@ -1,6 +1,6 @@
 {
   "name": "ifcloud-package-cli",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "This is a cli, used to generate ifcloud packages",
   "main": "index.js",
   "bin": {
@@ -14,7 +14,7 @@
     "lib"
   ],
   "author": {
-    "name": "aidenxiong",
+    "name": "aiden-xiong",
     "email": "aiden_xiong@163.com"
   },
   "keywords": [
@@ -32,6 +32,5 @@
     "fs-extra": "^10.0.0",
     "inquirer": "^8.2.0",
     "ora": "^5.4.1"
-  },
-  "devDependencies": {}
+  }
 }
