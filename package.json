@@ -1,5 +1,5 @@
 {
-  "name": "ifcloud-cli",
+  "name": "ifcloud-package-cli",
   "version": "1.0.0",
   "description": "This is a cli, used to generate ifcloud packages",
   "main": "index.js",
